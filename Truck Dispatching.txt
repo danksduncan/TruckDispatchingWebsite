@@ -1,0 +1,797 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="keywords" content="HTML5 Template" />
+<meta name="description" content="Webster - Responsive Multi-purpose HTML5 Template" />
+<meta name="author" content="potenzaglobalsolutions.com" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<title>Vital Dispatching</title>
+
+<!-- Favicon -->
+<link rel="shortcut icon" href="images/veefavicon.png" />
+
+<!-- font -->
+<link  rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:300,300i,400,500,500i,600,700,800,900|Poppins:200,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900">
+ 
+<!-- Plugins -->
+<link rel="stylesheet" type="text/css" href="css/plugins-css.css" />
+
+<!-- Typography -->
+<link rel="stylesheet" type="text/css" href="css/typography.css" />
+
+<!-- Shortcodes -->
+<link rel="stylesheet" type="text/css" href="css/shortcodes/shortcodes.css" />
+
+<!-- Style -->
+<link rel="stylesheet" type="text/css" href="css/style.css" />
+
+<!-- shop -->
+<link href="css/shop.css" rel="stylesheet" type="text/css" /> 
+
+<!-- Responsive -->
+<link rel="stylesheet" type="text/css" href="css/responsive.css" /> 
+  
+</head>
+
+<body>
+ 
+<div class="wrapper">
+ 
+<!--=================================
+ header -->
+ 
+<script>history.scrollRestoration = "manual"</script>
+<header id="header" style="background-color:#4fcaff" class="header default fullWidth">
+    
+      <div class="topbar">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-6 col-md-6 xs-mb-10">
+            <div class="topbar-call text-center text-md-left">
+              <ul style="margin-left: 20px;">
+                <li style="color: black;"><i style="color: black;" class="fa fa-envelope-o theme-color"></i> support@vitaldispatching.com</li>
+                 <li><i style="color: black;" class="fa fa-phone" ></i> <a href="tel:+7042791249"> <span style="color: black;">+(407) 735-6718 </span> </a> </li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-lg-6 col-md-6">
+            <div class="topbar-social text-center text-md-right">
+              <ul style="margin-right: 10px;">
+                <li><a href="https://www.facebook.com/vitaldispatching" target="_blank"><span style="color: black;" class="ti-facebook"></span></a></li>
+                <li><a href="https://twitter.com/VitalDispatch" target="_blank"><span style="color: black;" class="ti-twitter"></span></a></li>
+                <li><a href="https://www.instagram.com/vitaldispatching/" target="_blank"><span style="color: black;" class="ti-instagram"></span></a></li>
+                <li><a href="https://www.linkedin.com/in/vitaldispatching/" target="_blank"><span style="color: black;" class="ti-linkedin"></span></a></li>
+              </ul>
+            </div>
+          </div>
+         </div>
+      </div>
+    </div>
+    
+ <div class="menu" id="onepagenav">  
+  <!-- menu start -->
+   <nav id="menu" class="mega-menu">
+    <!-- menu list items container -->
+    <section class="menu-list-items" style="background-color: white ;" >
+     <div class="container-fluid"> 
+      <div class="row"> 
+       <div class="col-lg-12 col-md-12"> 
+        <!-- menu logo -->
+        <ul class="menu-logo">
+            <li>
+                <a><img id="logo_img" src="images/marginvd.png" alt="logo"> </a>
+                <style>
+                    .mega-menu .menu-mobile-collapse-trigger:before, .mega-menu .menu-mobile-collapse-trigger:after, .mega-menu .menu-mobile-collapse-trigger span
+                    {
+                        background: black;
+                    }
+                </style>
+            </li>
+        </ul>
+        <!-- menu links -->
+        <div class="menu-bar">
+         <ul class="menu-links">
+             <style>
+                 .mega-menu .menu-links > li > a
+                 {
+                     color: black;
+                 }
+             </style>
+
+			<li><a href="#home" id="menu" class="btn">Home</a></li>
+			
+			<li><a href="#about" id="menu" class="btn">About Us</a></li>
+			
+			<li><a href="#services" id="menu" class="btn">Our Services</a></li>
+			
+			<li><a href="#testimonials" id="menu" class="btn">Testimonials</a></li>
+               
+			<li><a href="#quote" id="secret" class="btn">Contact Us</a></li>
+			 
+         </ul>
+        </div>
+       </div>
+      </div>
+     </div>
+    </section>
+   </nav>
+  <!-- menu end -->
+ </div>
+</header>
+
+ <!--=================================
+ header -->
+ 
+ <!--=================================
+ banner -->
+
+<section class="slider-parallax typer-banner business bg-overlay-black-10 parallax" data-jarallax='{"speed": 0.6}' id="home" style="background-image: url(images/truckmountain.jpeg);">
+  <div class="slider-content-middle">
+   <div class="container">
+     <div class="row">
+        <div class="col-lg-12 col-md-12">
+            <style>
+                .slider-parallax
+                {
+                    height: 100vh;
+                }
+            </style>
+         <div class="slider-content text-center"> 
+          <h1 class="mobileHide text-white mb-150 mt-100">Join Our Family!</br> Better <span class="typer" data-delay="150" data-words="Logistics, Loads, Routes" data-colors="#60DBFF,#60DBFF,#60DBFF"></span>  <span class="cursor" data-cursorDisplay="|" data-owner="some-id"></span> </h1>
+          <h1 class="mobileShow text-white mb-150 mt-100">Join Our Family!</br> Better <span class="typer" data-delay="150" data-words="Logistics, Loads, Routes" data-colors="#60DBFF,#60DBFF,#60DBFF"></span>  <span class="cursor" data-cursorDisplay="|" data-owner="some-id"></span> </h1>
+           <!-- <p class="text-white mt-40 mb-30">Learn  About Our 2-Week FREE Trial! <br>Click Below To Get Started</p> -->
+           <style type="text/css">
+               .mobileShow 
+               { 
+                   display: none;
+               }
+               /* Smartphone Portrait and Landscape */
+               @media only screen
+               and (min-device-width : 320px)
+               and (max-device-width : 480px)
+               { 
+                   .mobileShow 
+                   { 
+                       display: block;
+                   }
+                   .slider-parallax.typer-banner.business h1
+                   {
+                       font-size: 43px;
+                       line-height: 50px;
+                   }
+               }
+            </style>
+            <style type="text/css">
+               .mobileHide { display: block;}
+               /* Smartphone Portrait and Landscape */
+               @media only screen
+               and (min-device-width : 320px)
+               and (max-device-width : 480px)
+               {  
+                   .mobileHide 
+                   { 
+                       display: none;   
+                       color: white;
+                   }
+                   .slider-parallax.typer-banner.business h1
+                   {
+                       font-family: revert;
+                   }
+               }
+            </style>
+           <a onclick="myFunction()" class="button large black ml-10 animated4" style="background-color: #60DBFF; border-color: #60DBFF; color: white;">LEARN MORE </a>
+           
+           <script>
+            function myFunction(){
+             document.getElementById("secret").click(); 
+            }
+            </script>
+            
+          </div>
+         </div>
+        </div>
+     </div>
+  </div>
+</section>
+
+<!--=================================
+ banner -->
+
+  <!--=================================
+ About-->
+
+<section class="page-section-ptb" id="about">
+  <div class="container">
+    <div class="row justify-content-center">
+       <div class="col-lg-12">
+       <div class="section-title text-center">
+          <div class="section-title mb-25" style=" text-align: center; "> 
+              <img src="images/aboutblackblue.png" style="max-width: 100%;">
+          </div>
+          <h3>Our mission is to be a leader in carrier logistics and to <br>serve our community of independent truckers <br>with quality loads and 24/7 support!</h3>
+          <p style=" font-size: 20px; "><br>Bringing you quality loads no matter where you go in the USA. Our team of logistic coordinators and operation managers will be able to get you the best routes by maximizing time and efficiency. A trusted brand among independent truckers and freight companies.
+          Located in Central Florida, we expanded our operations to meet the needs of brokers, dispatchers and carriers all over the country and we're continuing to grow. <br>The company that always delivers!</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!--=================================
+ About-->
+ 
+<!--=================================
+ Our Blog -->
+
+<section class="our-clients theme-bg text-white page-section-ptb position-relative" id="services">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-12">
+        <h2 class="text-uppercase text-white mb-0 text-center">Our Services</h2>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!--=================================
+ service -->
+
+<section class="secrvice-blog pb-50">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-4 col-md-4 col-sm-12 mb-30">
+        <div class="card border-0  box-content o-hidden h-100">
+          <img class="img-fluid" src="images/sealoads.png" alt="">
+          <div class="p-4">
+            <h4 class="fw-5"><a href="#" class="text-black">Locate Quality Loads </a></h4>
+            <p class="mb-0 pb-0 text-black">Less time behind the desk and more time on the road. Our coordinators will find loads and routes catered for each driver and company.</p>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-4 col-md-4 col-sm-12 mb-30">
+        <div class="card border-0  box-content o-hidden h-100">
+          <img class="img-fluid" src="images/datasheet.png" alt="">
+          <div class="p-4">
+            <h4 class="fw-5"><a href="#" class="text-black">Paperwork & Logistics </a></h4>          
+            <p class="mb-0 pb-0 text-black">We'll handle the backend paperwork so you can focus on the journey. We work side by side with partnered brokers to secure invoicing and agreements for each load. </p>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-4 col-md-4 col-sm-12 mb-30">
+        <div class="card border-0  box-content o-hidden h-100">
+          <img class="img-fluid" src="images/backfreight.png" alt="">
+          <div class="p-4">
+            <h4 class="fw-5"><a href="#" class="text-black">Freight Factoring </a></h4>         
+            <p class="mb-0 pb-0 text-black">We have partnered with local and national factoring agencies that allow you to get paid without having to go through the 30-day industry average wait time. </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+ <!--=================================
+ service -->
+ 
+<!--=================================
+ Our Testimonial -->
+ 
+ <section class="our-clients theme-bg text-white page-section-ptb position-relative" style=" padding: 25px; ">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-12">
+        <h3 class="text-uppercase text-white mb-0 text-center">Let Us Serve You!</h3>
+      </div>
+    </div>
+  </div>
+</section>
+ 
+ <!--=================================
+owl carousel -->
+ 
+ <section class="page-section-ptb" style=" padding-top: 55px; padding-bottom: 35px; ">
+   <div class="container">
+     <div class="row mt-10">
+        <div class="col-lg-12 col-md-12">
+              <div class="owl-carousel" data-nav-dots="true" data-items="3" data-md-items="3" data-sm-items="3" data-xs-items="2" data-xx-items="1" data-space="20">
+                <div class="item">
+                  <img class="img-fluid full-width" src="images/drytruckgreen.png" alt="">
+                  <h3 style="text-align: center;">DRY VAN</h3>
+                </div>
+                 <div class="item">
+                  <img class="img-fluid full-width" src="images/reefer.png" alt="">
+                  <h3 style="text-align: center;">REEFER</h3>
+                </div>
+                 <div class="item">
+                  <img class="img-fluid full-width" src="images/flatbedblue.png" alt="">
+                  <h3 style="text-align: center;">FLATBED</h3>
+                </div>
+                 <div class="item">
+                  <img class="img-fluid full-width" src="images/power.png" alt="">
+                  <h3 style="text-align: center;">POWER ONLY</h3>
+                </div>
+                 <div class="item">
+                  <img class="img-fluid full-width" src="images/cargovan.png" alt="">
+                  <h3 style="text-align: center;">CARGO VAN</h3>
+                </div>
+                 <div class="item">
+                  <img class="img-fluid full-width" src="images/sprinterflip.png" alt="">
+                  <h3 style="text-align: center;">SPRINTER</h3>
+                </div>
+                <div class="item">
+                  <img class="img-fluid full-width" src="images/boxtruck.png" alt="">
+                  <h3 style="text-align: center;">STRAIGHT TRUCK</h3>
+                </div>
+             </div>
+             <style>
+                    .h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6
+                    {
+                        margin-bottom: 1rem;
+                    }
+                </style>
+        </div>
+     </div>
+   </div>
+ </section>
+  
+<!--=================================
+owl carousel -->
+
+<!--=================================
+ Our Testimonial -->
+ 
+ <section class="our-clients theme-bg text-white page-section-ptb position-relative" style=" padding: 25px; ">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-12">
+        <h3 class="phraseHide text-uppercase text-white mb-0 text-center" style="font-size=20px;">Great Home Time & Top Pay</h3>
+        <h3 class="phraseShow text-uppercase text-white mb-0 text-center" style="font-size=20px;">Great Home Time & Top Pay</h3>
+        <style type="text/css">
+           .phraseShow 
+           { 
+               display: none;
+           }
+           /* Smartphone Portrait and Landscape */
+           @media only screen
+           and (min-device-width : 320px)
+           and (max-device-width : 480px)
+           { 
+               .phraseShow 
+               { 
+                   display: block;
+               }
+               h3
+               {
+                   font-size: 20px;
+               }
+           }
+        </style>
+        <style type="text/css">
+           .phraseHide { display: block;}
+           /* Smartphone Portrait and Landscape */
+           @media only screen
+           and (min-device-width : 320px)
+           and (max-device-width : 480px)
+           {  
+               .phraseHide 
+               { 
+                   display: none;   
+                   color: white;
+               }
+           }
+        </style>
+  </div>
+    </div>
+  </div>
+</section>
+ 
+ <!--=================================
+owl carousel -->
+ 
+ <!--=================================
+counter --> 
+
+<!--
+<section class="page-section-ptb theme-bg text-white position-relative" style="padding-top: 40px;">
+  <div class="container">
+      <h2 id="date" class="text-white mb-40 text-center"></h2>
+      <script>
+        const monthNames = ["January", "February", "March", "April", "May", "June",
+          "July", "August", "September", "October", "November", "December"
+        ];
+        const d = new Date();
+        const dd = String(d.getDate()).padStart(2, '0');
+        const mm = String(d.getMonth() + 1).padStart(2, '0'); //January is 0!
+        const yyyy = d.getFullYear();
+        
+        document.getElementById("date").innerHTML = "Analytics For: " + "&nbsp;" + monthNames[d.getMonth()] + " " + d.getDate() + ", " + d.getFullYear();
+      </script>
+   <div class="row">
+        <div class="col-lg-3 col-sm-6 sm-mb-30">
+        <div class="counter left-icon text-white">
+          <span class="icon ti-user theme-color" aria-hidden="true"></span>
+          <span class="timer" data-to="352" data-speed="3000">352</span>
+          <label>AVAILABLE LOADS</label>
+        </div>
+      </div>
+       <div class="col-lg-3 col-sm-6 sm-mb-30">
+        <div class="counter left-icon text-white">
+         <span class="icon ti-help-alt theme-color" aria-hidden="true"></span>
+          <span class="timer" data-to="435" data-speed="3000">435</span>
+          <label>MILES DRIVEN</label>
+        </div>
+      </div>
+       <div class="col-lg-3 col-sm-6">
+        <div class="counter left-icon text-white">
+          <span class="icon ti-face-smile theme-color" aria-hidden="true"></span>
+          <span class="timer" data-to="21" data-speed="3000">21</span>
+          <label>TRUCKS ON THE ROAD</label>
+        </div>
+      </div>
+    </div>
+</div>
+</section>
+-->
+
+<!--=================================
+counter --> 
+
+<section class="page-section-ptb" id="testimonials">
+  <div class="container">
+ <div class="row">
+      <div class="col-lg-12">
+      <div class="section-title mb-25" style=" text-align: center; "> 
+          <img src="images/testimonialheaderclients.png" style="max-width: 100%;">
+      </div>
+      <div class="owl-carousel" data-nav-arrow="false" data-nav-dots="true" data-items="1" data-lg-items="1" data-md-items="1" data-sm-items="1" data-xs-items="1">
+         <div class="item">
+              <div class="testimonial bottom_pos">
+                <div class="testimonial-avatar"> <img alt="" src="images/trucker3.png"> </div>
+                <div class="testimonial-info"> Always able to receive quality loads with Vital Dispatching. Scheduling my own routes took too much time away from being on the road, so having a reliable dispatching company made all the difference. Thank you!</div>
+                <style>
+                    .testimonial-info:before
+                    {
+                        color: #60DBFF;
+                    }
+                    .author-info span
+                    {
+                        color: #60DBFF;
+                    }
+                    .testimonial-avatar img
+                    {
+                        border: 4px solid #60DBFF;
+                    }
+                    .owl-carousel .owl-dots .owl-dot:hover span, .owl-carousel .owl-dots .owl-dot.active span
+                {
+                    background: #60DBFF;
+                }
+                    </style>
+                <div class="author-info"> <strong>Phillip - <span>J.B. Hunt</span></strong> </div>
+            </div>
+        </div>
+        <div class="item">
+         <div class="testimonial bottom_pos">
+            <div class="testimonial-avatar"> <img alt="" src="images/trucker2.png"> </div>
+            <div class="testimonial-info"> I only work one week out of the month, so I need to make my routes count. I can always depend on Vital Dispatching to find the best routes for me without having to go through different brokers!</div>
+            <div class="author-info"> <strong>Tom - <span>Landstar System</span></strong> </div>
+        </div>
+        </div>
+        <div class="item">
+         <div class="testimonial bottom_pos">
+            <div class="testimonial-avatar"> <img alt="" src="images/trucker1.png"> </div>
+             <div class="testimonial-info"> I've had a great experience with their customer support. I needed a load pickup and Vital Dispatching was able to find me more than 5 different locations near me within the same hour! Keep up the efficiency for us truckers!</div>
+            <div class="author-info"> <strong>Joel - <span>Knight Transportation</span></strong> </div>
+          </div>
+         </div>
+       </div>
+     </div>
+    </div>
+   </div>
+</section>
+
+<!--=================================
+ Our Testimonial -->
+
+<!--=================================
+Our Clients  -->
+
+<section class="our-clients theme-bg text-white page-section-ptb" id="quote">
+  <div class="container">
+    <!--<div class="row">
+      <div class="col-lg-12 col-md-12">
+      <div class="owl-carousel" data-items="5" data-sm-items="4" data-xs-items="3" data-xx-items="2">
+         <div class="item">
+           <img class="mx-auto img-fluid" src="images/clients/light/06.png" alt="">
+         </div>
+         <div class="item">
+           <img class="mx-auto img-fluid" src="images/clients/light/07.png" alt="">
+         </div>
+         <div class="item">
+           <img class="mx-auto img-fluid" src="images/clients/light/08.png" alt="">
+         </div>
+         <div class="item">
+           <img class="mx-auto img-fluid" src="images/clients/light/09.png" alt="">
+         </div>
+         <div class="item">
+           <img class="mx-auto img-fluid" src="images/clients/light/10.png" alt="">
+         </div>
+         <div class="item">
+           <img class="mx-auto img-fluid" src="images/clients/light/06.png" alt="">
+         </div>
+         <div class="item">
+           <img class="mx-auto img-fluid" src="images/clients/light/08.png" alt="">
+         </div>
+         <div class="item">
+           <img class="mx-auto img-fluid" src="images/clients/light/09.png" alt="">
+         </div>
+         </div>
+      </div>
+    </div>--> 
+  </div>
+</section>
+
+<!--=================================
+ Our Clients -->
+ 
+ <!--=================================
+ footer -->
+<footer class="footer page-section-pt">
+<div class="container">
+  <div class="footer-contact white-bg" style="margin-bottom: 10px;">
+          <div class="row">
+              <div class="col-lg-4 col-md-4 bottom-m3">
+                  <div class="contact-box">
+                      <div class="contact-icon">
+                          <i class="ti-direction-alt"></i>
+                      </div>
+                      <div class="contact-info">
+                          <div class="text-center">
+                              <h5 class="mt-10 mb-10">John Young Parkway </h5>
+                              <span>Orlando, Florida 32837</span>
+                          </div>
+                      </div>
+                  </div>
+              </div>
+              <div class="col-lg-4 col-md-4 bottom-m3">
+                  <div class="contact-box">
+                      <div class="contact-icon">
+                          <i class="ti-headphone-alt"></i>
+                      </div>
+                      <div class="contact-info">
+                          <div class="text-center">
+                              <h5 class="mt-10 mb-10">+(407) 735-6718</h5>
+                              <span>7 Days a Week 8:30am-8:30pm</span>
+                          </div>
+                      </div>
+                  </div>
+              </div>
+              <div class="col-lg-4 col-md-4">
+                  <div class="contact-box">
+                      <div class="contact-icon">
+                          <i class="ti-email"></i>
+                      </div>
+                      <div class="contact-info">
+                          <div class="text-center">
+                              <h5 class="mt-10 mb-10"> support@vitaldispatching.com</h5>
+                              <span>24 X 7 online support</span>
+                          </div>
+                      </div>
+                  </div>
+              </div>
+          </div>
+      </div>
+<!--=================================
+ Blogs -->
+
+<!--=================================
+ footer -->
+
+<section class="page-section-ptb contact-2">
+  <div class="container">
+  <div class="row justify-content-center text-center mb-35">
+      <div class="col-md-8">
+          <div class="section-title mb-0"> 
+              <img src="images/contactblackblue.png" style="max-width: 100%; margin-bottom: 30px;">
+            </div>
+       </div>
+   </div>
+   
+     <form method="post">
+      <div class="contact-form clearfix">
+          
+      <div class="row">
+        <div class="col-lg-3">
+            <div class="section-field">
+              <input id="name" type="text" placeholder="Name*" class="form-control" name="name" required>
+              <?php
+                  if(isset($_POST["submit"])){
+    
+                    $to = 'support@vitaldispatching.com' ;
+                    $subject = 'New Lead - Vital Dispatching Form Submission!';
+                    $phone = $_POST['phone'];
+                    $email = $_POST['email'];
+                    $company = $_POST['company'];
+                    $comments = $_POST['comments'];
+                    date_default_timezone_set('US/Eastern');
+                    $date = date('Y/m/d H:i:s');
+                    
+                    $headers .= "MIME-Version: 1.0\r\n";
+                    $headers .= "Content-Type: text/html; charset=UTF-8\r\n";
+                    $headers .= 'From: Vital Dispatching <support@vitaldispatching.com>' . PHP_EOL .
+                    'Reply-To: <' . $_POST['email'] .'>' . PHP_EOL .
+                    'X-Mailer: PHP/' . phpversion();
+                    
+                    $message = "<b>My Name:</b> " . $_POST['name'] . "<br />\n <b>My Phone Number:</b> " . $_POST['phone'] . "<br />\n <b>My Email:</b> " . $_POST['email'] . "<br />\n <b>My Company:</b> " . $_POST['company'] . "<br />\n <b>Comments:</b> " . $_POST['comments'] . "<br />\n <b>Form Submitted:</b> " . $date;
+                    
+                    mail($to, $subject, $message, $headers);
+                    header('Location: index.php'); 
+                  }
+                    
+                  ?>
+             </div> 
+         </div>
+         <div class="col-lg-3">
+             <div class="section-field">
+                <input type="text" placeholder="Phone*" class="form-control" name="phone" required>
+              </div>
+          </div>
+         <div class="col-lg-3">
+             <div class="section-field">
+                <input type="email" placeholder="Email" class="form-control" name="email">
+              </div>
+          </div>
+          <div class="col-lg-3">
+              <div class="section-field">
+                <input type="text" placeholder="Company" class="form-control" name="company">
+              </div>
+          </div>
+      </div>
+          
+          <div class="row">
+              <div class="col-lg-12" style=" text-align: center; ">
+                  <div class="section-field textarea">
+                    <textarea class="input-message form-control" placeholder="Comment*"  rows="7" name="comments" required></textarea>
+                  </div>
+              </div>
+          </div>
+        <!-- Google reCaptch-->
+      <!-- <div class="g-recaptcha section-field clearfix" data-sitekey="[Add your site key]"></div> -->
+      <style>
+          .contact-form .section-field
+          {
+              width: 100%;
+          }
+      </style>
+      
+      <div class="row">
+          <div class="col-lg-12" style=" text-align: center; ">
+         <button id="submit" name="submit" type="submit" value="Send" class="button" style="background-color: #60DBFF; border-color: #60DBFF;"><span> Send message </span> <i class="fa fa-paper-plane"></i></button>
+          </div> 
+        </form>
+      </div>
+      
+      </div>
+      
+    </div>
+</section>
+
+<!--=================================
+ footer -->
+<div class="row top">
+<div class="col-lg-6 col-md-6">
+  <a href="."><img class="img-fluid" id="logo-footer" src="images/marginvd.png" alt="logo">
+</div>
+    <div class="col-lg-6 col-md-6">
+      <div class="social text-left sm-mt-0 text-md-right xs-mt-20" style="margin-left: 40px;">
+          <ul>
+              <li>
+                  <a href="https://www.facebook.com/vitaldispatching" target="_blank"> <i class="fa fa-facebook"></i> </a>
+              </li>
+              <li>
+                  <a href="https://twitter.com/VitalDispatch" target="_blank"> <i class="fa fa-twitter"></i> </a>
+              </li>
+            
+              <li>
+                  <a href="https://www.instagram.com/vitaldispatching/" target="_blank"> <i class="fa fa-instagram"></i> </a>
+              </li>
+              
+              <li>
+                  <a href="https://www.linkedin.com/in/vitaldispatching/" target="_blank"> <i class="fa fa-linkedin"></i> </a>
+              </li>
+          </ul>
+      </div>
+    </div>
+</div>
+<div class="row">
+  <div class="col-lg-12 col-md-12">
+     <div class="divider mt-40 mb-25"></div>
+  </div>
+</div>
+
+</div>
+</div>
+</footer>
+ 
+<!--=================================
+ footer -->
+ 
+<!--=================================
+ footer -->
+ 
+<footer class="footer page-section-pt pt-10">
+
+<div class="copyright">
+<div class="container">
+<div class="row">
+  <div class="col-md-12">
+      <div class="text-left text-md-center xs-mt-15">
+          <p style=" margin-bottom: 45px; "> &copy;Copyright 
+            <span id="copyright"> 
+                <script>document.getElementById('copyright').appendChild(document.createTextNode(new Date().getFullYear()))</script>
+            </span> 
+           <a style=" color: black;"><b> Vital Dispatching </b></a> All Rights Reserved </p>
+      </div>
+  </div>
+</div>
+</div>
+</div>
+</footer>
+
+<!--=================================
+ footer -->
+
+</div>
+
+<div id="back-to-top"><a class="top arrow" href="#top" style=" background-color: #60DBFF; "><i class="fa fa-angle-up"></i> <span>TOP</span></a></div>
+
+<!--=================================
+ jquery -->
+
+<!-- jquery -->
+<script src="js/jquery-3.3.1.min.js"></script>
+
+<!-- plugins-jquery -->
+<script src="js/plugins-jquery.js"></script>
+
+<!-- plugin_path -->
+<script>var plugin_path = 'js/';</script>
+ 
+<!-- custom -->
+<script src="js/custom.js"></script>
+
+<script>
+$(document).ready(function(){
+  // Add smooth scrolling to all links
+  $("a").on('click', function(event) {
+    
+    // Make sure this.hash has a value before overriding default behavior
+    if (this.hash !== "") {
+      // Prevent default anchor click behavior
+          
+     // $('.btn').css("font-weight", "normal");
+     // $(this).css('font-weight', 'bold');
+     // $(this).css('color', 'black');
+      
+      event.preventDefault();
+
+      // Store hash
+      var hash = this.hash;
+
+      // Using jQuery's animate() method to add smooth page scroll
+      // The optional number (800) specifies the number of milliseconds it takes to scroll to the specified area
+      $('html, body').animate({
+        //scrollTop: $(hash).offset().top
+      }, 800, function(){
+   
+        // Add hash (#) to URL when done scrolling (default click behavior)
+        //window.location.hash = hash;
+      });
+    } // End if
+  });
+});
+</script>
+
+</body>
+</html>
