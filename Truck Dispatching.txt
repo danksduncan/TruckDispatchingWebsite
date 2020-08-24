@@ -340,201 +340,21 @@ owl carousel -->
 owl carousel -->
 
 <!--=================================
- Our Testimonial -->
- 
- <section class="our-clients theme-bg text-white page-section-ptb position-relative" style=" padding: 25px; ">
-  <div class="container">
-    <div class="row">
-      <div class="col-sm-12">
-        <h3 class="phraseHide text-uppercase text-white mb-0 text-center" style="font-size=20px;">Great Home Time & Top Pay</h3>
-        <h3 class="phraseShow text-uppercase text-white mb-0 text-center" style="font-size=20px;">Great Home Time & Top Pay</h3>
-        <style type="text/css">
-           .phraseShow 
-           { 
-               display: none;
-           }
-           /* Smartphone Portrait and Landscape */
-           @media only screen
-           and (min-device-width : 320px)
-           and (max-device-width : 480px)
-           { 
-               .phraseShow 
-               { 
-                   display: block;
-               }
-               h3
-               {
-                   font-size: 20px;
-               }
-           }
-        </style>
-        <style type="text/css">
-           .phraseHide { display: block;}
-           /* Smartphone Portrait and Landscape */
-           @media only screen
-           and (min-device-width : 320px)
-           and (max-device-width : 480px)
-           {  
-               .phraseHide 
-               { 
-                   display: none;   
-                   color: white;
-               }
-           }
-        </style>
-  </div>
-    </div>
-  </div>
-</section>
- 
- <!--=================================
-owl carousel -->
- 
- <!--=================================
-counter --> 
-
-<!--
-<section class="page-section-ptb theme-bg text-white position-relative" style="padding-top: 40px;">
-  <div class="container">
-      <h2 id="date" class="text-white mb-40 text-center"></h2>
-      <script>
-        const monthNames = ["January", "February", "March", "April", "May", "June",
-          "July", "August", "September", "October", "November", "December"
-        ];
-        const d = new Date();
-        const dd = String(d.getDate()).padStart(2, '0');
-        const mm = String(d.getMonth() + 1).padStart(2, '0'); //January is 0!
-        const yyyy = d.getFullYear();
-        
-        document.getElementById("date").innerHTML = "Analytics For: " + "&nbsp;" + monthNames[d.getMonth()] + " " + d.getDate() + ", " + d.getFullYear();
-      </script>
-   <div class="row">
-        <div class="col-lg-3 col-sm-6 sm-mb-30">
-        <div class="counter left-icon text-white">
-          <span class="icon ti-user theme-color" aria-hidden="true"></span>
-          <span class="timer" data-to="352" data-speed="3000">352</span>
-          <label>AVAILABLE LOADS</label>
-        </div>
-      </div>
-       <div class="col-lg-3 col-sm-6 sm-mb-30">
-        <div class="counter left-icon text-white">
-         <span class="icon ti-help-alt theme-color" aria-hidden="true"></span>
-          <span class="timer" data-to="435" data-speed="3000">435</span>
-          <label>MILES DRIVEN</label>
-        </div>
-      </div>
-       <div class="col-lg-3 col-sm-6">
-        <div class="counter left-icon text-white">
-          <span class="icon ti-face-smile theme-color" aria-hidden="true"></span>
-          <span class="timer" data-to="21" data-speed="3000">21</span>
-          <label>TRUCKS ON THE ROAD</label>
-        </div>
-      </div>
-    </div>
-</div>
-</section>
--->
-
-<!--=================================
-counter --> 
-
-<section class="page-section-ptb" id="testimonials">
-  <div class="container">
- <div class="row">
-      <div class="col-lg-12">
-      <div class="section-title mb-25" style=" text-align: center; "> 
-          <img src="images/testimonialheaderclients.png" style="max-width: 100%;">
-      </div>
-      <div class="owl-carousel" data-nav-arrow="false" data-nav-dots="true" data-items="1" data-lg-items="1" data-md-items="1" data-sm-items="1" data-xs-items="1">
-         <div class="item">
-              <div class="testimonial bottom_pos">
-                <div class="testimonial-avatar"> <img alt="" src="images/trucker3.png"> </div>
-                <div class="testimonial-info"> Always able to receive quality loads with Vital Dispatching. Scheduling my own routes took too much time away from being on the road, so having a reliable dispatching company made all the difference. Thank you!</div>
-                <style>
-                    .testimonial-info:before
-                    {
-                        color: #60DBFF;
-                    }
-                    .author-info span
-                    {
-                        color: #60DBFF;
-                    }
-                    .testimonial-avatar img
-                    {
-                        border: 4px solid #60DBFF;
-                    }
-                    .owl-carousel .owl-dots .owl-dot:hover span, .owl-carousel .owl-dots .owl-dot.active span
-                {
-                    background: #60DBFF;
-                }
-                    </style>
-                <div class="author-info"> <strong>Phillip - <span>J.B. Hunt</span></strong> </div>
-            </div>
-        </div>
-        <div class="item">
-         <div class="testimonial bottom_pos">
-            <div class="testimonial-avatar"> <img alt="" src="images/trucker2.png"> </div>
-            <div class="testimonial-info"> I only work one week out of the month, so I need to make my routes count. I can always depend on Vital Dispatching to find the best routes for me without having to go through different brokers!</div>
-            <div class="author-info"> <strong>Tom - <span>Landstar System</span></strong> </div>
-        </div>
-        </div>
-        <div class="item">
-         <div class="testimonial bottom_pos">
-            <div class="testimonial-avatar"> <img alt="" src="images/trucker1.png"> </div>
-             <div class="testimonial-info"> I've had a great experience with their customer support. I needed a load pickup and Vital Dispatching was able to find me more than 5 different locations near me within the same hour! Keep up the efficiency for us truckers!</div>
-            <div class="author-info"> <strong>Joel - <span>Knight Transportation</span></strong> </div>
-          </div>
-         </div>
-       </div>
-     </div>
-    </div>
-   </div>
-</section>
-
-<!--=================================
- Our Testimonial -->
-
-<!--=================================
-Our Clients  -->
+ Our Blog -->
 
 <section class="our-clients theme-bg text-white page-section-ptb" id="quote">
   <div class="container">
-    <!--<div class="row">
-      <div class="col-lg-12 col-md-12">
-      <div class="owl-carousel" data-items="5" data-sm-items="4" data-xs-items="3" data-xx-items="2">
-         <div class="item">
-           <img class="mx-auto img-fluid" src="images/clients/light/06.png" alt="">
-         </div>
-         <div class="item">
-           <img class="mx-auto img-fluid" src="images/clients/light/07.png" alt="">
-         </div>
-         <div class="item">
-           <img class="mx-auto img-fluid" src="images/clients/light/08.png" alt="">
-         </div>
-         <div class="item">
-           <img class="mx-auto img-fluid" src="images/clients/light/09.png" alt="">
-         </div>
-         <div class="item">
-           <img class="mx-auto img-fluid" src="images/clients/light/10.png" alt="">
-         </div>
-         <div class="item">
-           <img class="mx-auto img-fluid" src="images/clients/light/06.png" alt="">
-         </div>
-         <div class="item">
-           <img class="mx-auto img-fluid" src="images/clients/light/08.png" alt="">
-         </div>
-         <div class="item">
-           <img class="mx-auto img-fluid" src="images/clients/light/09.png" alt="">
-         </div>
-         </div>
+    <div class="row">
+      <div class="col-sm-12">
+        <h2 class="text-uppercase text-white mb-0 text-center">Great Home Time & Top Pay</h2>
       </div>
-    </div>--> 
+    </div>
   </div>
 </section>
 
 <!--=================================
- Our Clients -->
- 
+ service -->
+
  <!--=================================
  footer -->
 <footer class="footer page-section-pt">
