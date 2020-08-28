@@ -417,7 +417,6 @@ owl carousel -->
             </div>
        </div>
    </div>
-   
      <form method="post">
       <div class="contact-form clearfix">
           
