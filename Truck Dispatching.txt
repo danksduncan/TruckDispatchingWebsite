@@ -105,8 +105,6 @@
 			<li><a href="#about" id="menu" class="btn">About Us</a></li>
 			
 			<li><a href="#services" id="menu" class="btn">Our Services</a></li>
-			
-			<li><a href="#testimonials" id="menu" class="btn">Testimonials</a></li>
                
 			<li><a href="#quote" id="secret" class="btn">Contact Us</a></li>
 			 
@@ -188,6 +186,7 @@
              document.getElementById("secret").click(); 
             }
             </script>
+            
           </div>
          </div>
         </div>
@@ -325,11 +324,11 @@ owl carousel -->
                 </div>
              </div>
              <style>
-				.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6
-				{
-					margin-bottom: 1rem;
-				}
-			</style>
+                    .h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6
+                    {
+                        margin-bottom: 1rem;
+                    }
+                </style>
         </div>
      </div>
    </div>
@@ -341,7 +340,7 @@ owl carousel -->
 <!--=================================
  Our Blog -->
 
-<section class="our-clients theme-bg text-white page-section-ptb" id="quote">
+<section class="our-clients theme-bg text-white page-section-ptb">
   <div class="container">
     <div class="row">
       <div class="col-sm-12">
@@ -407,7 +406,7 @@ owl carousel -->
 <!--=================================
  footer -->
 
-<section class="page-section-ptb contact-2">
+<section class="page-section-ptb contact-2" id="quote">
   <div class="container">
   <div class="row justify-content-center text-center mb-35">
       <div class="col-md-8">
@@ -416,6 +415,7 @@ owl carousel -->
             </div>
        </div>
    </div>
+   
      <form method="post">
       <div class="contact-form clearfix">
           
