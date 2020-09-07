@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -208,7 +209,7 @@
           <div class="section-title mb-25" style=" text-align: center; "> 
               <img src="images/aboutblackblue.png" style="max-width: 100%;">
           </div>
-          <h3>Our mission is to be a leader in carrier logistics and to <br>serve our community of independent truckers <br>with quality loads and 24/7 support!</h3>
+          <h3>Our mission is to be a leader in carrier logistics and to <br>serve our community of independent truckers <br>with quality loads!</h3>
           <p style=" font-size: 20px; "><br>Bringing you quality loads no matter where you go in the USA. Our team of logistic coordinators and operation managers will be able to get you the best routes by maximizing time and efficiency. A trusted brand among independent truckers and freight companies.
           Located in Central Florida, we expanded our operations to meet the needs of brokers, dispatchers and carriers all over the country and we're continuing to grow. <br>The company that always delivers!</p>
         </div>
@@ -423,32 +424,7 @@ owl carousel -->
         <div class="col-lg-3">
             <div class="section-field">
               <input id="name" type="text" placeholder="Name*" class="form-control" name="name" required>
-              <?php
-                  if(isset($_POST["submit"])){
-    
-                    $to = 'support@vitaldispatching.com' ;
-                    $subject = 'New Lead - Vital Dispatching Form Submission!';
-                    $phone = $_POST['phone'];
-                    $email = $_POST['email'];
-                    $company = $_POST['company'];
-                    $comments = $_POST['comments'];
-                    date_default_timezone_set('US/Eastern');
-                    $date = date('Y/m/d H:i:s');
-                    
-                    $headers .= "MIME-Version: 1.0\r\n";
-                    $headers .= "Content-Type: text/html; charset=UTF-8\r\n";
-                    $headers .= 'From: Vital Dispatching <support@vitaldispatching.com>' . PHP_EOL .
-                    'Reply-To: <' . $_POST['email'] .'>' . PHP_EOL .
-                    'X-Mailer: PHP/' . phpversion();
-                    
-                    $message = "<b>My Name:</b> " . $_POST['name'] . "<br />\n <b>My Phone Number:</b> " . $_POST['phone'] . "<br />\n <b>My Email:</b> " . $_POST['email'] . "<br />\n <b>My Company:</b> " . $_POST['company'] . "<br />\n <b>Comments:</b> " . $_POST['comments'] . "<br />\n <b>Form Submitted:</b> " . $date;
-                    
-                    mail($to, $subject, $message, $headers);
-                    header('Location: index.php'); 
-                  }
-                    
-                  ?>
-             </div> 
+                           </div> 
          </div>
          <div class="col-lg-3">
              <div class="section-field">
