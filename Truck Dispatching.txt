@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -60,10 +59,8 @@
           <div class="col-lg-6 col-md-6">
             <div class="topbar-social text-center text-md-right">
               <ul style="margin-right: 10px;">
-                <li><a href="https://www.facebook.com/vitaldispatching" target="_blank"><span style="color: black;" class="ti-facebook"></span></a></li>
-                <li><a href="https://twitter.com/VitalDispatch" target="_blank"><span style="color: black;" class="ti-twitter"></span></a></li>
+                <li><a href="https://www.facebook.com/Vital-Dispatching-109938830849216" target="_blank"><span style="color: black;" class="ti-facebook"></span></a></li>
                 <li><a href="https://www.instagram.com/vitaldispatching/" target="_blank"><span style="color: black;" class="ti-instagram"></span></a></li>
-                <li><a href="https://www.linkedin.com/in/vitaldispatching/" target="_blank"><span style="color: black;" class="ti-linkedin"></span></a></li>
               </ul>
             </div>
           </div>
@@ -481,18 +478,11 @@ owl carousel -->
       <div class="social text-left sm-mt-0 text-md-right xs-mt-20" style="margin-left: 40px;">
           <ul>
               <li>
-                  <a href="https://www.facebook.com/vitaldispatching" target="_blank"> <i class="fa fa-facebook"></i> </a>
-              </li>
-              <li>
-                  <a href="https://twitter.com/VitalDispatch" target="_blank"> <i class="fa fa-twitter"></i> </a>
+                  <a href="https://www.facebook.com/Vital-Dispatching-109938830849216" target="_blank"> <i class="fa fa-facebook"></i> </a>
               </li>
             
               <li>
                   <a href="https://www.instagram.com/vitaldispatching/" target="_blank"> <i class="fa fa-instagram"></i> </a>
-              </li>
-              
-              <li>
-                  <a href="https://www.linkedin.com/in/vitaldispatching/" target="_blank"> <i class="fa fa-linkedin"></i> </a>
               </li>
           </ul>
       </div>
