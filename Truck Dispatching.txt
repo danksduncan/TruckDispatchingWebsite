@@ -552,10 +552,6 @@ $(document).ready(function(){
     
     // Make sure this.hash has a value before overriding default behavior
     if (this.hash !== "") {
-     // Prevent default anchor click behavior
-     // $('.btn').css("font-weight", "normal");
-     // $(this).css('font-weight', 'bold');
-     // $(this).css('color', 'black');
       
       event.preventDefault();
 
