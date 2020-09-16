@@ -322,11 +322,11 @@ owl carousel -->
                 </div>
              </div>
              <style>
-                    .h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6
-                    {
-                        margin-bottom: 1rem;
-                    }
-                </style>
+				.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6
+				{
+					margin-bottom: 1rem;
+				}
+			</style>
         </div>
      </div>
    </div>
@@ -462,9 +462,7 @@ owl carousel -->
           </div> 
         </form>
       </div>
-      
       </div>
-      
     </div>
 </section>
 
@@ -505,22 +503,21 @@ owl carousel -->
  footer -->
  
 <footer class="footer page-section-pt pt-10">
-
-<div class="copyright">
-<div class="container">
-<div class="row">
-  <div class="col-md-12">
-      <div class="text-left text-md-center xs-mt-15">
-          <p style=" margin-bottom: 45px; "> &copy;Copyright 
-            <span id="copyright"> 
-                <script>document.getElementById('copyright').appendChild(document.createTextNode(new Date().getFullYear()))</script>
-            </span> 
-           <a style=" color: black;"><b> Connect Logistics LLC </b></a> All Rights Reserved </p>
-      </div>
-  </div>
-</div>
-</div>
-</div>
+	<div class="copyright">
+		<div class="container">
+			<div class="row">
+			  <div class="col-md-12">
+				  <div class="text-left text-md-center xs-mt-15">
+					  <p style=" margin-bottom: 45px; "> &copy;Copyright 
+						<span id="copyright"> 
+							<script>document.getElementById('copyright').appendChild(document.createTextNode(new Date().getFullYear()))</script>
+						</span> 
+					   <a style=" color: black;"><b> Connect Logistics LLC </b></a> All Rights Reserved </p>
+				  </div>
+			  </div>
+			</div>
+		</div>
+	</div>
 </footer>
 
 <!--=================================
