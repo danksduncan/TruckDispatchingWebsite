@@ -45,28 +45,28 @@
 <script>history.scrollRestoration = "manual"</script>
 <header id="header" style="background-color:#4fcaff" class="header default fullWidth">
     
-      <div class="topbar">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-6 col-md-6 xs-mb-10">
-            <div class="topbar-call text-center text-md-left">
-              <ul style="margin-left: 20px;">
-                <li style="color: black;"><i style="color: black;" class="fa fa-envelope-o theme-color"></i> support@vitaldispatching.com</li>
-                 <li><i style="color: black;" class="fa fa-phone" ></i> <a href="tel:+7042791249"> <span style="color: black;">+(407) 735-6718 </span> </a> </li>
-              </ul>
-            </div>
-          </div>
-          <div class="col-lg-6 col-md-6">
-            <div class="topbar-social text-center text-md-right">
-              <ul style="margin-right: 10px;">
-                <li><a href="https://www.facebook.com/Vital-Dispatching-109938830849216" target="_blank"><span style="color: black;" class="ti-facebook"></span></a></li>
-                <li><a href="https://www.instagram.com/vitaldispatching/" target="_blank"><span style="color: black;" class="ti-instagram"></span></a></li>
-              </ul>
-            </div>
-          </div>
-         </div>
-      </div>
-    </div>
+  <div class="topbar">
+  <div class="container">
+	<div class="row">
+	  <div class="col-lg-6 col-md-6 xs-mb-10">
+		<div class="topbar-call text-center text-md-left">
+		  <ul style="margin-left: 20px;">
+			<li style="color: black;"><i style="color: black;" class="fa fa-envelope-o theme-color"></i> support@vitaldispatching.com</li>
+			 <li><i style="color: black;" class="fa fa-phone" ></i> <a href="tel:+7042791249"> <span style="color: black;">+(407) 735-6718 </span> </a> </li>
+		  </ul>
+		</div>
+	  </div>
+	  <div class="col-lg-6 col-md-6">
+		<div class="topbar-social text-center text-md-right">
+		  <ul style="margin-right: 10px;">
+			<li><a href="https://www.facebook.com/Vital-Dispatching-109938830849216" target="_blank"><span style="color: black;" class="ti-facebook"></span></a></li>
+			<li><a href="https://www.instagram.com/vitaldispatching/" target="_blank"><span style="color: black;" class="ti-instagram"></span></a></li>
+		  </ul>
+		</div>
+	  </div>
+	 </div>
+  </div>
+</div>
     
  <div class="menu" id="onepagenav">  
   <!-- menu start -->
