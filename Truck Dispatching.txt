@@ -44,7 +44,6 @@
  
 <script>history.scrollRestoration = "manual"</script>
 <header id="header" style="background-color:#4fcaff" class="header default fullWidth">
-    
   <div class="topbar">
   <div class="container">
 	<div class="row">
@@ -105,7 +104,6 @@
 			<li><a href="#services" id="menu" class="btn">Our Services</a></li>
                
 			<li><a href="#quote" id="secret" class="btn">Contact Us</a></li>
-			 
          </ul>
         </div>
        </div>
@@ -178,13 +176,11 @@
                }
             </style>
            <a onclick="myFunction()" class="button large black ml-10 animated4" style="background-color: #60DBFF; border-color: #60DBFF; color: white;">LEARN MORE </a>
-           
            <script>
             function myFunction(){
              document.getElementById("secret").click(); 
             }
             </script>
-            
           </div>
          </div>
         </div>
@@ -413,15 +409,13 @@ owl carousel -->
             </div>
        </div>
    </div>
-   
      <form method="post">
       <div class="contact-form clearfix">
-          
       <div class="row">
         <div class="col-lg-3">
             <div class="section-field">
               <input id="name" type="text" placeholder="Name*" class="form-control" name="name" required>
-                           </div> 
+	   </div> 
          </div>
          <div class="col-lg-3">
              <div class="section-field">
@@ -439,7 +433,6 @@ owl carousel -->
               </div>
           </div>
       </div>
-          
           <div class="row">
               <div class="col-lg-12" style=" text-align: center; ">
                   <div class="section-field textarea">
@@ -455,7 +448,6 @@ owl carousel -->
               width: 100%;
           }
       </style>
-      
       <div class="row">
           <div class="col-lg-12" style=" text-align: center; ">
          <button id="submit" name="submit" type="submit" value="Send" class="button" style="background-color: #60DBFF; border-color: #60DBFF;"><span> Send message </span> <i class="fa fa-paper-plane"></i></button>
